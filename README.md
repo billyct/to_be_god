@@ -23,3 +23,6 @@ ok，我真的不太喜欢这个theme，于是就谷歌了一下theme，发现�
 ```
 之后```M-x blue```来使用blue主题，我的terminal也是有点小透明，是否我的emacs也可以有点小透明？便找到了[alpha_value.el](https://gist.github.com/cosmo0920/3800026)，cp到init-local.el中之后，执行了下C-x a，然后就80%透明了，然后修改了一下，90%可以接受。
 
+###next2
+* 虽然站在了[purcell](https://github.com/purcell/emacs.d)的肩膀上面，但是始终只是开始，接下来就是让自己习惯快捷键这种uncomfortable，于是就把自己的phpstorm编辑器的这种快捷键keymap也都设置成了emacs（有点反人类，不好的地方就是不能使用到emacs上的那种插件，但重要原因可能是一时间不太习惯emacs这种暴力的模式吧，况且手头上的项目仍需开发）
+* 学习一些elisp，[elisp简明教程🙈](http://smacs.github.io/elisp/)
